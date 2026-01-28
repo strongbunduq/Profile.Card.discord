@@ -1,0 +1,15 @@
+{
+  "name": "dis--hyzex",
+  "version": "1.0.0",
+  "description": "[![CSS](https://img.shields.io/badge/css-blue?style=flat-square)](https://www.w3.org/Style/CSS/) [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=flat-square)](https://www.javascript.com/) [![HTML5](https://img.shields.io/badge/html5-red?style=flat-square)](https://html.spec.whatwg.org/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.5"
+  }
+}
